@@ -1,0 +1,14 @@
+D:\My C# projects\C#\TravelManagementApplication\bin\Debug\netcoreapp3.1\TravelManagementApplication.exe
+D:\My C# projects\C#\TravelManagementApplication\bin\Debug\netcoreapp3.1\TravelManagementApplication.deps.json
+D:\My C# projects\C#\TravelManagementApplication\bin\Debug\netcoreapp3.1\TravelManagementApplication.runtimeconfig.json
+D:\My C# projects\C#\TravelManagementApplication\bin\Debug\netcoreapp3.1\TravelManagementApplication.runtimeconfig.dev.json
+D:\My C# projects\C#\TravelManagementApplication\bin\Debug\netcoreapp3.1\TravelManagementApplication.dll
+D:\My C# projects\C#\TravelManagementApplication\bin\Debug\netcoreapp3.1\TravelManagementApplication.pdb
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.Form1.resources
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.csproj.GenerateResource.cache
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.AssemblyInfoInputs.cache
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.AssemblyInfo.cs
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.csproj.CoreCompileInputs.cache
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.dll
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.pdb
+D:\My C# projects\C#\TravelManagementApplication\obj\Debug\netcoreapp3.1\TravelManagementApplication.genruntimeconfig.cache
